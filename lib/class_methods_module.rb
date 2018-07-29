@@ -9,3 +9,7 @@ class Dancer
   extend MetaDancing
 
 end
+
+class kid 
+  extend MetaDancing
+end
